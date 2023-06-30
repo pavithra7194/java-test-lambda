@@ -19,8 +19,8 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<sonar.organization>pavi</sonar.organization>
-		<sonar.projectKey>ff6f9b4a4e2cff4a517ba89730353f5d09aa143d</sonar.projectKey>
-		<sonar.projectName>sample</sonar.projectName>
+		<sonar.projectKey>pavi</sonar.projectKey>
+		<sonar.projectName>sample1</sonar.projectName>
 	</properties>
 	<dependencies>
 	  <dependency>

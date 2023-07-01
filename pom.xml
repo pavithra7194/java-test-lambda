@@ -20,7 +20,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<sonar.organization>pavi</sonar.organization>
 		<sonar.projectKey>pavi</sonar.projectKey>
-		<sonar.projectName>sample1</sonar.projectName>
+		<sonar.projectName>sample</sonar.projectName>
 	</properties>
 	<dependencies>
 	  <dependency>
